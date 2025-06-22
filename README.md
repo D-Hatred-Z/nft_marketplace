@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # NFT Marketplace
 
 
@@ -49,3 +50,6 @@ License
 ----
 MIT
 
+=======
+# nft_marketplace
+>>>>>>> acf9e6bbf0d48526b9a58acae968332cb69d839b
