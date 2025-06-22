@@ -53,3 +53,6 @@ MIT
 =======
 # nft_marketplace
 >>>>>>> acf9e6bbf0d48526b9a58acae968332cb69d839b
+
+
+P/S: You have to create .env file to create nft picture from pinata. It contains key, private key and jwt.
